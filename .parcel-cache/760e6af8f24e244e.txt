@@ -1,0 +1,12 @@
+11
+55C:\Users\ajith\Desktop\expense-tracker-master\style.css132747007520000000 0
+72C:\Users\ajith\Desktop\expense-tracker-master\dist\index.672d4772.js.map132879229994912143 0
+56C:\Users\ajith\Desktop\expense-tracker-master\.gitignore132747007520000000 0
+55C:\Users\ajith\Desktop\expense-tracker-master\script.js132747007520000000 0
+58C:\Users\ajith\Desktop\expense-tracker-master\package.json132879231604026614 0
+68C:\Users\ajith\Desktop\expense-tracker-master\dist\index.672d4772.js132879229994834247 0
+50C:\Users\ajith\Desktop\expense-tracker-master\dist132879229994964940 1
+56C:\Users\ajith\Desktop\expense-tracker-master\index.html132747007520000000 0
+73C:\Users\ajith\Desktop\expense-tracker-master\dist\index.3a01df49.css.map132879229994912143 0
+69C:\Users\ajith\Desktop\expense-tracker-master\dist\index.3a01df49.css132879229994834247 0
+61C:\Users\ajith\Desktop\expense-tracker-master\dist\index.html132879229994834247 0

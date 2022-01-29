@@ -1,0 +1,24 @@
+{
+  "name": "expense-tracker-master",
+  "version": "1.0.0",
+  "description": "web app",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajithrajay/DailyTrackerzzs01.git"
+  },
+  "type": "module",
+  "author": "ajay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajithrajay/DailyTrackerzzs01/issues"
+  },
+  "homepage": "https://github.com/ajithrajay/DailyTrackerzzs01#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
